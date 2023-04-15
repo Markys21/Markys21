@@ -1,18 +1,19 @@
 <p align="left"><img src="https://media3.giphy.com/media/aYQ1Enqu89rQfr4JSS/giphy.gif?cid=790b76116efcc7105ca49d858c320938328b0751a5b11355&rid=giphy.gif&ct=s" width="360" height="100"  /></p>
 
 
+
 💫 Hi! My Name is John Mark Rojas
 ================================================
 A results-driven project manager dedicated to building efficient and reliable systems that optimize organizational performance.
 --------------------------------------------------------------------------------
-* <br><br>🏫 Graduated from a 4-year Course in BSIT SY 2022-2023.
-* <br>🎯 Graduated Full-Stack Wed Developer from KodeGo SY 2023.
-* <br>🔭 Looking forward to Contribute to Open Source projects.
-* <br>🥅 2023 Goals: To acquire a proficient level of expertise in Full Stack Development
-* <br>😻 Building things on the Web, Play instruments and Reading 📚 is my hobby.
-* <br>💬 Ask me about anything [here](https://github.com/Markys21/Markys21/issues)
+<br><br>* 🏫 Graduated from a 4-year Course in BSIT SY 2022-2023.
+<br>* 🎯 Graduated Full-Stack Wed Developer from KodeGo SY 2023.
+<br>* 🔭 Looking forward to Contribute to Open Source projects.
+<br>* 🥅 2023 Goals: To acquire a proficient level of expertise in Full Stack Development
+<br>* 😻 Building things on the Web, Play instruments and Reading 📚 is my hobby.
+<br>* 💬 Ask me about anything [here](https://github.com/Markys21/Markys21/issues)
 <br>
----------------------------------------------------------------------------------
+
 <p align="left">
   <img src="https://media4.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy.gif?cid=790b7611cd0f34add4cbbeca0b68770186eced04e3b27025&rid=giphy.gif&ct=s" width="40" height="40" style="display:inline-block; vertical-align:middle;" /> 
 </p>
