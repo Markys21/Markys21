@@ -4,15 +4,13 @@
 💫 Hi! My Name is John Mark Rojas
 ================================================
 A results-driven project manager dedicated to building efficient and reliable systems that optimize organizational performance.
-
-
-
-<br><br>🏫 Graduated from a 4-year Course in BSIT SY 2022-2023.
-<br>🎯 Graduated Full-Stack Wed Developer from KodeGo SY 2023.
-<br>🔭 Looking forward to Contribute to Open Source projects.
-<br>🥅 2023 Goals: To acquire a proficient level of expertise in Full Stack Development
-<br>😻 Building things on the Web, Play instruments and Reading 📚 is my hobby.
-<br>💬 Ask me about anything [here](https://github.com/Markys21/Markys21/issues)
+--------------------------------------------------------------------------------
+* <br><br>🏫 Graduated from a 4-year Course in BSIT SY 2022-2023.
+* <br>🎯 Graduated Full-Stack Wed Developer from KodeGo SY 2023.
+* <br>🔭 Looking forward to Contribute to Open Source projects.
+* <br>🥅 2023 Goals: To acquire a proficient level of expertise in Full Stack Development
+* <br>😻 Building things on the Web, Play instruments and Reading 📚 is my hobby.
+* <br>💬 Ask me about anything [here](https://github.com/Markys21/Markys21/issues)
 <br>
 ---------------------------------------------------------------------------------
 <p align="left">
