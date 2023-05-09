@@ -1,4 +1,4 @@
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&width=435&lines=Full+Stack+Web+%26+Wordpress+Developer;Always+learning+new+things;4+YRS+BSIT+Graduates+;KodeGO+Graduates)](https://git.io/typing-svg)</p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&width=435&lines=Full+Stack+Web+%26+Wordpress+Developer;Always+learning+new+things;4+YRS+BSIT+Graduates+;KodeGO+Graduates" alt="Typing SVG" /></a></p>
 
 
 
