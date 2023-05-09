@@ -1,4 +1,4 @@
-<p align="left"><img src="https://media3.giphy.com/media/aYQ1Enqu89rQfr4JSS/giphy.gif?cid=790b76116efcc7105ca49d858c320938328b0751a5b11355&rid=giphy.gif&ct=s" width="360" height="100"  /></p>
+<p align="left">![image](https://github.com/Markys21/Markys21/assets/126499990/a91ceef4-53ea-4295-9cb8-2eadea1c0e6c)</p>
 
 
 
