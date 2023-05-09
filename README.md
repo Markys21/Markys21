@@ -1,6 +1,5 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&repeat=false&width=435&lines=JOHN+MARK+ROJAS" alt="Typing SVG" /></a></p>
-
-<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&width=435&lines=Full+Stack+Web+%26+Wordpress+Developer;Always+learning+new+things;4+YRS+BSIT+Graduates+;KodeGO+Graduates" alt="Typing SVG" /></a></p>
+<p align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&repeat=false&width=435&lines=JOHN+MARK+ROJAS" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&width=435&lines=Full+Stack+Web+%26+Wordpress+Developer;Always+learning+new+things;4+YRS+BSIT+Graduates+;KodeGO+Graduates" alt="Typing SVG" /></a></p>
 
 
 A results-driven project manager dedicated to building efficient and reliable systems that optimize organizational performance.
