@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&repeat=false&width=435&lines=JOHN+MARK+ROJAS" alt="Typing SVG" /></a>
 <br>
-   <code width="200">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)</code>
+   <picture><img height="200" alt="javascript" src="https://media.tenor.com/ge2zw2z3EB4AAAAi/shaco-pls-shaco.gif"/></picture>
   </div>
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&width=435&lines=Full+Stack+Web+%26+Wordpress+Developer;Always+learning+new+things;4+YRS+BSIT+Graduates+;KodeGO+Graduates" alt="Typing SVG" /></a>
 
@@ -31,7 +31,7 @@ A results-driven project manager dedicated to building efficient and reliable sy
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markys21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=markys21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 # 
-<picture><img src="https://media.tenor.com/07KwjnSpJS8AAAAi/league-of-legends-league-of-legends-neeko.gif" width="70%"/></picture>
+<picture><img src="https://media.tenor.com/07KwjnSpJS8AAAAi/league-of-legends-league-of-legends-neeko.gif" width="40%"/></picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=markys21&icon=0&color=0)](https://visitcount.itsvg.in)
