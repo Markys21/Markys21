@@ -38,7 +38,7 @@ A results-driven project manager dedicated to building efficient and reliable sy
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markys21&theme=tokyonight&hide_border=false)
 <!-- <picture><img src="https://media.tenor.com/07KwjnSpJS8AAAAi/league-of-legends-league-of-legends-neeko.gif" width="40%"/></picture><br/><br/> -->
-<picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkMWM3NjZiMTc1Nzc1ZGEzNTUxMDU0NmQ0MjExM2U0Y2JmNTMwMCZjdD1z/IsNANDIdPI2k55dKhN/giphy.gif" height="200"/> </picture>
+<picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkMWM3NjZiMTc1Nzc1ZGEzNTUxMDU0NmQ0MjExM2U0Y2JmNTMwMCZjdD1z/IsNANDIdPI2k55dKhN/giphy.gif" height="300"/> </picture>
 ![](https://github-readme-stats.vercel.app/api?username=markys21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 
 
