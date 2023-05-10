@@ -29,12 +29,8 @@ A results-driven project manager dedicated to building efficient and reliable sy
 ![](https://github-readme-stats.vercel.app/api?username=markys21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markys21&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=markys21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=markys21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 
+<picture><img src="https://media.tenor.com/07KwjnSpJS8AAAAi/league-of-legends-league-of-legends-neeko.gif" width="50%"/></picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=markys21&icon=0&color=0)](https://visitcount.itsvg.in)
