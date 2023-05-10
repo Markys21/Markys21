@@ -34,11 +34,11 @@ A results-driven project manager dedicated to building efficient and reliable sy
 
 # 📊 GitHub Stats:
 
-<picture><img src="https://media.tenor.com/DOVbIdf5PrsAAAAi/megumin-konosuba-chibi.gif" width="200"/></picture>![](https://github-readme-stats.vercel.app/api/top-langs/?username=markys21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<picture><img src="https://media.tenor.com/DOVbIdf5PrsAAAAi/megumin-konosuba-chibi.gif" width="500"/></picture>![](https://github-readme-stats.vercel.app/api/top-langs/?username=markys21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markys21&theme=tokyonight&hide_border=false)
-<picture><img src="https://media.tenor.com/07KwjnSpJS8AAAAi/league-of-legends-league-of-legends-neeko.gif" width="40%"/></picture><br/><br/>
-<picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkMWM3NjZiMTc1Nzc1ZGEzNTUxMDU0NmQ0MjExM2U0Y2JmNTMwMCZjdD1z/IsNANDIdPI2k55dKhN/giphy.gif" height="250"/> </picture>
+<!-- <picture><img src="https://media.tenor.com/07KwjnSpJS8AAAAi/league-of-legends-league-of-legends-neeko.gif" width="40%"/></picture><br/><br/>
+<picture><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkMWM3NjZiMTc1Nzc1ZGEzNTUxMDU0NmQ0MjExM2U0Y2JmNTMwMCZjdD1z/IsNANDIdPI2k55dKhN/giphy.gif" height="250"/> </picture> -->
 ![](https://github-readme-stats.vercel.app/api?username=markys21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 
 
