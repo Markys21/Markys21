@@ -1,9 +1,10 @@
 <div id="header" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&repeat=false&width=435&lines=JOHN+MARK+ROJAS" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&width=435&lines=Full+Stack+Web+%26+Wordpress+Developer;Always+learning+new+things;4+YRS+BSIT+Graduates+;KodeGO+Graduates" alt="Typing SVG" /></a>
 <br>
-   <picture><img height="200" alt="javascript" src="https://media.tenor.com/ge2zw2z3EB4AAAAi/shaco-pls-shaco.gif"/></picture>
+  <picture><img height="200" src="https://media.tenor.com/eBdhcXqGN3MAAAAi/madotsuki-spin.gif"/></picture>
   </div>
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF788&width=435&lines=Full+Stack+Web+%26+Wordpress+Developer;Always+learning+new+things;4+YRS+BSIT+Graduates+;KodeGO+Graduates" alt="Typing SVG" /></a>
+
 
 
 A results-driven project manager dedicated to building efficient and reliable systems that optimize organizational performance.
