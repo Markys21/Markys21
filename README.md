@@ -28,7 +28,9 @@ A results-driven project manager dedicated to building efficient and reliable sy
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 📊 GitHub Stats:
+<p align="center">
 <picture><img src="https://media.tenor.com/DOVbIdf5PrsAAAAi/megumin-konosuba-chibi.gif" width="200"/></picture>![](https://github-readme-stats.vercel.app/api/top-langs/?username=markys21&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+     </p>
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=markys21&theme=tokyonight&hide_border=false)
 <picture><img src="https://media.tenor.com/07KwjnSpJS8AAAAi/league-of-legends-league-of-legends-neeko.gif" width="40%"/></picture><br/><br/>
